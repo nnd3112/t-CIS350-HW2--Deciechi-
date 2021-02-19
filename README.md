@@ -1,4 +1,4 @@
--# t-CIS350-HW2--Deciechi-
+
 # CIS350-HW2-Shumaker
 ## H1 Nico Deciechi
 
